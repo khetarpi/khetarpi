@@ -1,4 +1,6 @@
-## Hi there 👋
+## Ishan Khetarpal (professional)
+
+This is my GitHub account for Poolesville High School, in my role as an educator. 
 
 <!--
 **khetarpi/khetarpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
